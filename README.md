@@ -16,6 +16,7 @@ This addon can correspound to mirro modifier, Left and Right.
 
 
 ## Usage（使い方）
+https://www.youtube.com/watch?v=K1sZRMGtaBo  
 1. Install & activate Addon.  
 アドオンをインストールして有効にします
 2. Select a object in object mode.  
