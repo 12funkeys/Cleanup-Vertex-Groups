@@ -18,13 +18,13 @@ This addon can correspound to mirro modifier, Left and Right.
 ## Usage（使い方）
 https://www.youtube.com/watch?v=K1sZRMGtaBo  
 1. Install & activate Addon.  
-アドオンをインストールして有効にします
+アドオンをインストールして有効にします  
 2. Select a object in object mode.  
-オブジェクトを選択します。
+オブジェクトを選択します。  
 3. Execute "Cleanup Vertex Groups" in option menus of vertex groups.  
-vertex groupsのオプションメニューに追加されたCleanup Vertex Groupsを実行します。
+vertex groupsのオプションメニューに追加されたCleanup Vertex Groupsを実行します。  
 4. Check removed list in info.  
-info内で削除されたVertex Groupが確認できます。
+info内で削除されたVertex Groupが確認できます。  
 
 
 ## Note（ご注意）
