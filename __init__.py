@@ -7,7 +7,7 @@ bl_info = {
     "author": "12funkeys",
     "version": (0, 16),
     "blender": (2, 74, 0),
-    "location": "pose > selected bones",
+    "location": "Mesh > Vertex Groups",
     "description": "Remove 0 Weight Vertex Groups",
     "warning": "",
     "support": "COMMUNITY",
