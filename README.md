@@ -9,7 +9,7 @@ you will set up also unnecessary Vertex Groups.
 
 These unnecessary Vertex Groups makes too hard to paint weights in weight paint mode.
 
-This addon can correspound to mirro modifier, Left and Right.
+This addon can correspond to mirro modifier, Left and Right.
 
 ## Requirements（使用条件）
 * Blender 2.74+
